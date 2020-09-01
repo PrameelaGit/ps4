@@ -1,0 +1,49 @@
+
+ 
+
+body {
+    background-image: url(../ps4wallp.jpg);
+    font-family: Simp;
+    src: local('Simplifica Regular'), local('Simplifica');
+    src: url(../simplifica_sans.ttf) format('truetype'); 
+    font-size: x-large;
+    color: rgb(86, 221, 245);
+
+}
+    
+
+h3 {font-size: 2em;
+    color: red;
+}
+  
+ .textaline {
+   position: absolute;
+   right: 30px;
+   width: 500px;
+   border: 5px solid rgb(187, 193, 218);
+   padding: 10px;
+   align-self: center;
+     
+ }  
+ 
+ .button {
+    background-color: #28a6bd;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+ }
+ 
+
+ 
+ img {
+     width: 450px;
+     height: 300px;
+    
+
+ }
